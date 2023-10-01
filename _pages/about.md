@@ -7,7 +7,7 @@ author_profile: true
 
 # 关于我
 
-I am a senior undergrad at NYU majoring CS & Math and aspiring software engineer. The past summer I have interned with GrammaTech working on development of their product [CodeSonar](https://en.wikipedia.org/wiki/CodeSonar). I am proficient with full stack development(Python, TypeScript) and agaile DevOps. My interest lies in algorithms and I really enjoy doing LeetCode.
+I am student NYU majoring CS & Math and aspiring software engineer. The past summer I have interned with GrammaTech working on development of their product [CodeSonar](https://en.wikipedia.org/wiki/CodeSonar). I am proficient with full stack development(Python, TypeScript) and agaile DevOps. My interest lies in algorithms and I really enjoy doing LeetCode.
 
 Besides these, I had been a math tutor at NYU Courant for the last two years. And I have worked at a residential assistant at Weinstein in summer 22.
     
