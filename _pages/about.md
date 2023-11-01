@@ -13,4 +13,4 @@ Besides these, I had been a math tutor at NYU Courant for the last two years. An
     
 Outside the realm of academics and work, I am a huge car enthusiast and I love driving stick shift. I also play basketball and watch the NBA. Last but not least, I love reading books when I am free. You can checkout what books I am currently reading [here](/readings/).
 
-I am against social media because I don't like the recommendation and feeds. So I am hoping to use this website to tell my stories.
+I am hoping to use this website to tell my stories.
