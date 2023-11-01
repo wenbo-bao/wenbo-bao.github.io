@@ -9,8 +9,8 @@ author_profile: true
 
 ## non-technical
 
-#### Harry Potter
-I am currently reading Harry Potter. I have watched the movies years before and have never read the books. I would say the books are so much better than the movies. I would recommend it to anyone regardless of age.
+#### 被讨厌的勇气 Courage to be Disliked
+I read this book when I feel down. This book introduce the Alfred Adler's Individual Psychology theory, which is "humans are primarily motivated by social connectedness and a striving for superiority or success and feelings of inferiority drive individual to achieve personal goals." In other words, when I feel discouraged, I would tell myself that I feel this way because I want to give myself a rest and justify my failure and I would drive myself keep working. Usually, this works out for me and I will find what I am working on quite interesting.
 
 #### The Phoenix Project
 A book that delievers DevOps principle with a story. It helps explain why making small incremental update is much better than large release. Would recommend to anyone who is working in the tech industry.
